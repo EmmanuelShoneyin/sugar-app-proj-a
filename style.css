@@ -1,0 +1,21 @@
+.running{
+    width: 100%;
+    height:75%;
+}
+
+.body{
+    background-color:blue;
+}
+
+.text{
+    color:white;
+    text-align: center;
+    font-family: monospace;
+}
+
+
+.welcomeTooth{
+    display:flex;
+    justify-content:left;
+    padding-left: 10%;
+}
