@@ -4,7 +4,7 @@
 - git clone https://github.com/EmmanuelShoneyin/sugar-app-proj-a.git
 - git branch -a      (This will see everything that's on the remote repository)
 
-###Developer Best Practices
+### Developer Best Practices
 
  > [!WARNING]
  > Work on your own feature branch(Where you'll work on your feature) And don't push to develop. Instead push your feature branch and on the website make a PR(Pull-Request) to develop and let the reviewer do the merge
@@ -15,7 +15,7 @@
 
 
 
-###Basic rundown of how to make a feature branch, save your changes, and commit them, then make a Pull-request
+### Basic rundown of how to make a feature branch, save your changes, and commit them, then make a Pull-request
 
 1. **Making your feature branch**
     git checkout -b feature/example-feature          (Makes and switches to your feature branch on your local repository)
@@ -34,7 +34,7 @@
 3.
 
 
-###Steps for pushing your changes to develop
+### Steps for pushing your changes to develop
 
 1. git add .    //stages your changes(So that you don't lose what you've just worked on)
 2. git commit -m””   Enter your commit message for e(.g. "authentication-feature  ")
@@ -46,5 +46,5 @@
 
 
 
-###VOCABULARY
+### VOCABULARY
 Repository - The place where your code dwells. This is local once you do git clone on your local machine, while still existing remotely on the server
