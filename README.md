@@ -31,7 +31,7 @@
 
 4. **Pushing your feature branch to the remote repository**
     git push origin feature/example-feature
-3.
+ 
 
 
 ### Steps for pushing your changes to develop
